@@ -184,9 +184,8 @@ export const FractionBar = styled.div({
   height: '100%',
   display: 'flex',
   alignItems: 'center',
-  transform: 'rotate(-20deg)',
   zIndex: -1,
-  opacity: 0.8
+  opacity: 0
 });
 
 export interface HorizLineProps {
